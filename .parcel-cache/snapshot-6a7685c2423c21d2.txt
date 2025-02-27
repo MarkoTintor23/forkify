@@ -4,7 +4,7 @@
 103C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\domhandler\readme.md133850648005814557 0
 112C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs133850648012845745 0
 107C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\intl-pluralrules.js133850648022356109 0
-52C:\Users\Marko\Desktop\projekti\forkify\starter\dist133851508080932774 1
+52C:\Users\Marko\Desktop\projekti\forkify\starter\dist133851534619069353 1
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\instance\some.js133851506758615918 0
 110C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133850648007785485 0
 77C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\chalk\index.d.ts133850648005786903 0
@@ -100,7 +100,7 @@
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.array.to-spliced.js133851506738005727 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\dommatrix.js133850648019195823 0
 51C:\Users\Marko\Desktop\projekti\forkify\starter\src133764225440000000 1
-68C:\Users\Marko\Desktop\projekti\forkify\starter\src\js\controller.js133851507752722807 0
+68C:\Users\Marko\Desktop\projekti\forkify\starter\src\js\controller.js133851534618490242 0
 94C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\sxg.js133850648024719382 0
 89C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\string\sup.js133851506760753370 0
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\weak-set\delete-all.js133851506737059405 0
@@ -1432,7 +1432,7 @@
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\array\virtual\index.js133851506749096708 0
 75C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\README.md133850648606854654 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\esnext.map.group-by.js133851506742007607 0
-71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.dfd7a6db.svg133851508080776037 0
+71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.dfd7a6db.svg133851528339185485 0
 79C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\sass.node.mjs133850648606870781 0
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.reflect.apply.js133851506739471496 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\_\_array_with_holes133850648017762708 1
@@ -1959,7 +1959,7 @@
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\esnext.observable.js133851506742189903 0
 80C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\_\_jsx133850648019349452 1
 82C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\picomatch\lib\scan.js133850648005689759 0
-70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js133851508080912720 0
+70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js133851534618964486 0
 79C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\picocolors\LICENSE133850648003517302 0
 87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\web.url.js133851506764496767 0
 81C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\map133851506763959230 1
@@ -2196,7 +2196,7 @@
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.symbol.species.js133851506740316817 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\object\define-setter.js133851506736959405 0
 104C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\string\virtual\trim-start.js133851506762984189 0
-70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\logo.726d37a8.png133851507758916719 0
+70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\logo.726d37a8.png133851528338749987 0
 84C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\math\sinh.js133851506757732643 0
 132C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133850648051949272 0
 104C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\console-basic.js133850648015617868 0
@@ -5270,7 +5270,7 @@
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\svg-html.js133850648024689381 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\pad-end.js133851506755477481 0
 95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\pad-start.js133851506755544291 0
-71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.21bad73c.svg133851507759762537 0
+71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.21bad73c.svg133851528339185485 0
 98C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\reduce-right.js133851506756369122 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\replace-all.js133851506756948664 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\reverse.js133851506757141654 0
@@ -7091,7 +7091,7 @@
 107C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\core\lib\requests\ValidationRequest.js133850648022234905 0
 90C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\feature-flags\LICENSE133850648018643796 0
 111C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133850648024564644 0
-63C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.html133851508080776037 0
+63C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.html133851530261054615 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\stream.js133850648024629397 0
 114C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133850648024629397 0
 112C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\subresource-integrity.js133850648024659396 0
@@ -7503,7 +7503,7 @@
 86C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\watcher-win32-x64133850648011699391 1
 76C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers133850648013450360 1
 87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers\index.d.ts133850648013466143 0
-73C:\Users\Marko\Desktop\projekti\forkify\starter\dist\favicon.8b2f57bf.png133851507758911730 0
+73C:\Users\Marko\Desktop\projekti\forkify\starter\dist\favicon.8b2f57bf.png133851528338464731 0
 80C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers\lib133850648013088151 1
 95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\core\lib\RequestTracker.js133850648021519659 0
 84C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers\LICENSE133850648008217922 0
@@ -8062,6 +8062,6 @@
 76C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\.bin\semver.cmd133850648051534081 0
 76C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\.bin\semver.ps1133850648051534081 0
 88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\.bin\update-browserslist-db133850648051709348 0
-74C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js.map133851508080932774 0
-71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css133851507758911730 0
-75C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css.map133851507759271038 0
+74C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js.map133851534619048787 0
+71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css133851528338494320 0
+75C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css.map133851528338540577 0
