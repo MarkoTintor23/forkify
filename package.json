@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/MarkoTintor23/forkify#readme",
   "dependencies": {
+    "core-js": "^3.40.0",
     "parcel": "^2.13.3",
+    "regenerator-runtime": "^0.14.1",
     "sass": "^1.85.1"
   },
   "devDependencies": {
