@@ -1,10 +1,10 @@
-8066
+8069
 110C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133850648008900614 0
 104C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.typed-array.to-string.js133851506740527887 0
 103C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\domhandler\readme.md133850648005814557 0
 112C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs133850648012845745 0
 107C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\intl-pluralrules.js133850648022356109 0
-52C:\Users\Marko\Desktop\projekti\forkify\starter\dist133851534619069353 1
+52C:\Users\Marko\Desktop\projekti\forkify\starter\dist133855746590754753 1
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\instance\some.js133851506758615918 0
 110C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133850648007785485 0
 77C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\chalk\index.d.ts133850648005786903 0
@@ -100,7 +100,7 @@
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.array.to-spliced.js133851506738005727 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\dommatrix.js133850648019195823 0
 51C:\Users\Marko\Desktop\projekti\forkify\starter\src133764225440000000 1
-68C:\Users\Marko\Desktop\projekti\forkify\starter\src\js\controller.js133851534618490242 0
+68C:\Users\Marko\Desktop\projekti\forkify\starter\src\js\controller.js133855750150735068 0
 94C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\sxg.js133850648024719382 0
 89C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\string\sup.js133851506760753370 0
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\weak-set\delete-all.js133851506737059405 0
@@ -136,7 +136,7 @@
 107C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\core\src\requests\ValidationRequest.js133850648022244904 0
 83C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-tokens\CHANGELOG.md133850648003617369 0
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\weak-set\of.js133851506755346164 0
-54C:\Users\Marko\Desktop\projekti\forkify\starter\src\js133764225440000000 1
+54C:\Users\Marko\Desktop\projekti\forkify\starter\src\js133855739537792341 1
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\types\legacy\exception.d.ts133850648606940728 0
 56C:\Users\Marko\Desktop\projekti\forkify\starter\src\sass133764225440000000 1
 67C:\Users\Marko\Desktop\projekti\forkify\starter\src\sass\_base.scss133764225440000000 0
@@ -145,14 +145,14 @@
 91C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\core\lib\loadDotEnv.js133850648020124169 0
 83C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\entities\lib\escape.js133850648007695409 0
 83C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\escalade\sync\index.js133850648004878669 0
+100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\ordered-binary\.idea\ordered-binary.iml133850648005309529 0
+92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\types\util\promise_or.d.ts133850648607072426 0
+74C:\Users\Marko\Desktop\projekti\forkify\starter\src\js\views\recipeView.js133855749341778404 0
+80C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\bigint133851506756258010 1
 108C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\array\virtual\find-last-index.js133851506744036862 0
 81C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\dotenv\lib\main.d.ts133850648008772029 0
 73C:\Users\Marko\Desktop\projekti\forkify\starter\src\sass\_components.scss133764225440000000 0
 83C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\type-fest\package.json133850648003627380 0
-101C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.string.replace-all.js133851506739988788 0
-69C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\error-ex133850648004804478 1
-88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\fs\src\OverlayFS.js133850648013577046 0
-122C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133850648013545121 1
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\instance\every.js133851506742811179 0
 106C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\typed-array\last-index-of.js133851506752888951 0
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\regions\ET.js133850648019650713 0
@@ -182,6 +182,12 @@
 87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features133850648025573182 1
 69C:\Users\Marko\Desktop\projekti\forkify\starter\src\sass\_upload.scss133764225440000000 0
 78C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@msgpackr-extract133851506765500998 1
+63C:\Users\Marko\Desktop\projekti\forkify\starter\src\js\model.js133855745585124066 0
+95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\set\is-subset-of.js133851506751021824 0
+107C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\dom-serializer\README.md133850648006727247 0
+85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\math\asinh.js133851506734606195 0
+87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\term-size\vendor\.DS_Store133850648005379345 0
+60C:\Users\Marko\Desktop\projekti\forkify\starter\src\js\views133855739637026509 1
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\string\pad-end.js133851506755497442 0
 65C:\Users\Marko\Desktop\projekti\forkify\starter\src\img\icons.svg133764225440000000 0
 85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\domelementtype\readme.md133850648005939173 0
@@ -210,14 +216,6 @@
 65C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\.bin133850648607163856 1
 90C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\find.js133851506744777821 0
 90C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\update-browserslist-db\cli.js133850648005184090 0
-96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\update-browserslist-db\package.json133850648005861220 0
-97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\esm\_super_prop_base.js133850648017367437 0
-82C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\node-addon-api\napi.h133850648007389990 0
-93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\string\italics.js133851506751211824 0
-70C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\picomatch133850648006363525 1
-103C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\internals\iterator-create-proxy.js133851506751760898 0
-136C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133850648014796784 0
-70C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\env-paths133850648005053133 1
 89C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\cache\lib\FSCache.js133850648008458537 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\core\src\UncommittedAsset.js133850648022152731 0
 126C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\LICENSE133850648013372931 0
@@ -313,6 +311,18 @@
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\domutils\lib\esm\helpers.js.map133850648008907438 0
 81C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\electron-to-chromium133850648007325321 1
 86C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\semver\functions\minor.js133850648010425267 0
+96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\update-browserslist-db\package.json133850648005861220 0
+97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\esm\_super_prop_base.js133850648017367437 0
+82C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\node-addon-api\napi.h133850648007389990 0
+93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\string\italics.js133851506751211824 0
+70C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\picomatch133850648006363525 1
+103C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\internals\iterator-create-proxy.js133851506751760898 0
+136C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133850648014796784 0
+70C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\env-paths133850648005053133 1
+101C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.string.replace-all.js133851506739988788 0
+69C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\error-ex133850648004804478 1
+88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\fs\src\OverlayFS.js133850648013577046 0
+122C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133850648013545121 1
 81C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\sass.default.js133850648606687305 0
 98C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\proposals\keys-composition.js133851506752727816 0
 69C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\escalade133850648006317017 1
@@ -1151,10 +1161,6 @@
 82C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\lmdb\dependencies\lz4133850648008641655 1
 101C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\string\virtual\replace-all.js133851506756928658 0
 102C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\node-gyp-build-optional-packages\index.js133850648005389341 0
-95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\set\is-subset-of.js133851506751021824 0
-107C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\dom-serializer\README.md133850648006727247 0
-85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\math\asinh.js133851506734606195 0
-87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\term-size\vendor\.DS_Store133850648005379345 0
 83C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\term-size\vendor\macos133850648005919177 1
 85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\term-size\vendor\windows133850648006279534 1
 122C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js133850648009401420 0
@@ -1398,8 +1404,6 @@
 85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\types\importer.d.ts133850648606972506 0
 84C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\semver\functions\neq.js133850648010460622 0
 91C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\internals\is-object.js133851506750691548 0
-106C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\_\_get_prototype_of\package.json133850648018981025 0
-84C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\dist\js-yaml.js133850648007618067 0
 114C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133850648014245787 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\iterator\map.js133851506754105088 0
 74C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\lmdb\write.js133850648016900477 0
@@ -1432,7 +1436,7 @@
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\array\virtual\index.js133851506749096708 0
 75C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\README.md133850648606854654 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\esnext.map.group-by.js133851506742007607 0
-71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.dfd7a6db.svg133851528339185485 0
+71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.dfd7a6db.svg133855742054587915 0
 79C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\sass.node.mjs133850648606870781 0
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.reflect.apply.js133851506739471496 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\_\_array_with_holes133850648017762708 1
@@ -1475,8 +1479,6 @@
 95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\graph\src\shared-buffer.js133850648010608301 0
 95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\array\from-async.js133851506746048620 0
 88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\types\value\mixin.d.ts133850648607012509 0
-100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\ordered-binary\.idea\ordered-binary.iml133850648005309529 0
-92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\types\util\promise_or.d.ts133850648607072426 0
 125C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\_\_class_static_private_field_spec_set\package.json133850648018617921 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\sass\types\logger\source_location.d.ts133850648607092438 0
 110C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\input-file-multiple.js133850648022142721 0
@@ -1690,11 +1692,6 @@
 79C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\is-extglob\LICENSE133850648004601759 0
 110C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\entities\lib\encode-trie.js133850648014339247 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\entities\lib\maps133850648014714123 1
-86C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\watcher\src\linux133850648010750830 1
-85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\web\immediate.js133851506747720205 0
-88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\dist\js-yaml.min.js133850648007829213 0
-88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\function\bind.js133851506735072052 0
-79C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\dotenv\lib\main.js133850648007802496 0
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\date\to-primitive.js133851506762067670 0
 114C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\entities\lib\maps\entities.json133850648014546909 0
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\regions\TH.js133850648024820612 0
@@ -1804,7 +1801,6 @@
 101C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\string\virtual\fontcolor.js133851506745718806 0
 91C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\esm\_ts_values.js133850648017536842 0
 112C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\posthtml\node_modules\domhandler\lib\index.d.ts.map133850648005379345 0
-98C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\slice.js133851506758396132 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\source-map\dist\SourceMap.js133850648010286984 0
 85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\array\push.js133851506756123672 0
 113C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.mjs133850648014275771 0
@@ -1959,7 +1955,7 @@
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\esnext.observable.js133851506742189903 0
 80C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\_\_jsx133850648019349452 1
 82C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\picomatch\lib\scan.js133850648005689759 0
-70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js133851534618964486 0
+70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js133855746590724750 0
 79C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\picocolors\LICENSE133850648003517302 0
 87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\web.url.js133851506764496767 0
 81C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\map133851506763959230 1
@@ -2196,7 +2192,7 @@
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.symbol.species.js133851506740316817 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\object\define-setter.js133851506736959405 0
 104C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\string\virtual\trim-start.js133851506762984189 0
-70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\logo.726d37a8.png133851528338749987 0
+70C:\Users\Marko\Desktop\projekti\forkify\starter\dist\logo.726d37a8.png133855742054360617 0
 84C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\math\sinh.js133851506757732643 0
 132C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133850648051949272 0
 104C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\console-basic.js133850648015617868 0
@@ -2279,7 +2275,6 @@
 94C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\group-by.js133851506747225400 0
 103C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\string\virtual\fontcolor.js133851506745728798 0
 78C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\lmdb\node_modules133850648000598536 1
-85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\dist\js-yaml.mjs133850648010450623 0
 73C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\lmdb\open.js133850648016781262 0
 90C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\profiler\package.json133850648010987735 0
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\url\can-parse.js133851506735274146 0
@@ -2607,6 +2602,14 @@
 106C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json133850648013877916 0
 98C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\transformer-svg\lib\inline.js133850648008838037 0
 87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\lib\schema\json.js133850648007900975 0
+106C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@swc\helpers\_\_get_prototype_of\package.json133850648018981025 0
+84C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\dist\js-yaml.js133850648007618067 0
+86C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\watcher\src\linux133850648010750830 1
+85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\web\immediate.js133851506747720205 0
+88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\dist\js-yaml.min.js133850648007829213 0
+88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\function\bind.js133851506735072052 0
+79C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\dotenv\lib\main.js133850648007802496 0
+85C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\dist\js-yaml.mjs133850648010450623 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\resolver-default\LICENSE133850648012847466 0
 83C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\js-yaml\bin\js-yaml.js133850648007218791 0
 104C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133850648014409326 0
@@ -3116,8 +3119,8 @@
 98C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\esnext.set.add-all.js133851506742283813 0
 88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\set-timeout.js133851506757556080 0
 94C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\domutils\lib\esm\helpers.d.ts.map133850648008711415 0
-88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\domutils\lib\esm\helpers.js133850648005216843 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\reverse.js133851506757151649 0
+88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\domutils\lib\esm\helpers.js133850648005216843 0
 88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\domutils\lib\esm\index.d.ts133850648011863388 0
 89C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\get-iterator.js133851506746560960 0
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\domutils\lib\esm\index.d.ts.map133850648009168329 0
@@ -3192,10 +3195,6 @@
 101C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\dom-serializer\lib\foreignNames.d.ts.map133850648006317017 0
 95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\dom-serializer\lib\foreignNames.js133850648004989369 0
 90C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\dom-serializer\lib\index.d.ts133850648007545743 0
-97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\some.js133851506758605917 0
-110C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.aggregate-error.constructor.js133851506737724729 0
-87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\math\scale.js133851506757181652 0
-95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\internals\make-built-in.js133851506753509051 0
 88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\dom-serializer\lib\index.js133850648005616799 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.reflect.construct.js133851506739481492 0
 87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\math\imulh.js133851506747740187 0
@@ -3816,6 +3815,11 @@
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\push.js133851506756188008 0
 114C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.object.get-own-property-symbols.js133851506738579601 0
 105C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\reduce-right.js133851506756379123 0
+98C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\slice.js133851506758396132 0
+97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\some.js133851506758605917 0
+110C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\modules\es.aggregate-error.constructor.js133851506737724729 0
+87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\math\scale.js133851506757181652 0
+95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\internals\make-built-in.js133851506753509051 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\sort.js133851506758705915 0
 103C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\stable\array\virtual\to-spliced.js133851506762368663 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\async-iterator\to-array.js133851506761162961 0
@@ -4901,7 +4905,6 @@
 96C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\mpeg4.js133850648023244108 0
 89C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\array\splice.js133851506758833746 0
 86C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\array-buffer133851506762711846 1
-80C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\bigint133851506756258010 1
 88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\es\symbol\search.js133851506757251653 0
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\clear-immediate.js133851506735358898 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\composite-symbol.js133851506735570130 0
@@ -4985,7 +4988,6 @@
 89C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\array\sort.js133851506758625921 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\typed-array\index-of.js133851506747942264 0
 94C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\array\virtual\map.js133851506754115089 0
-105C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\instance\find-last-index.js133851506744105446 0
 94C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\typed-array\index.js133851506749574504 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\typed-array\int16-array.js133851506750086303 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\typed-array\int8-array.js133851506750126302 0
@@ -5270,7 +5272,7 @@
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\svg-html.js133850648024689381 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\pad-end.js133851506755477481 0
 95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\pad-start.js133851506755544291 0
-71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.21bad73c.svg133851528339185485 0
+71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\icons.21bad73c.svg133855742054587915 0
 98C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\reduce-right.js133851506756369122 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\replace-all.js133851506756948664 0
 93C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\full\instance\reverse.js133851506757141654 0
@@ -5666,6 +5668,7 @@
 92C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\regions\CL.js133850648015208290 0
 102C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\actual\string\virtual\fontsize.js133851506745738807 0
 100C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\instance\find-index.js133851506743959046 0
+105C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\instance\find-last-index.js133851506744105446 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\instance\find-last.js133851506744215568 0
 99C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\packager-js\src\DevPackager.js133850648011297830 0
 94C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\core-js\features\instance\find.js133851506744731518 0
@@ -7091,7 +7094,7 @@
 107C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\core\lib\requests\ValidationRequest.js133850648022234905 0
 90C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\feature-flags\LICENSE133850648018643796 0
 111C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133850648024564644 0
-63C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.html133851530261054615 0
+63C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.html133855742054587915 0
 97C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\stream.js133850648024629397 0
 114C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133850648024629397 0
 112C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\caniuse-lite\data\features\subresource-integrity.js133850648024659396 0
@@ -7503,7 +7506,7 @@
 86C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\watcher-win32-x64133850648011699391 1
 76C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers133850648013450360 1
 87C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers\index.d.ts133850648013466143 0
-73C:\Users\Marko\Desktop\projekti\forkify\starter\dist\favicon.8b2f57bf.png133851528338464731 0
+73C:\Users\Marko\Desktop\projekti\forkify\starter\dist\favicon.8b2f57bf.png133855742054290661 0
 80C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers\lib133850648013088151 1
 95C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\core\lib\RequestTracker.js133850648021519659 0
 84C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\@parcel\workers\LICENSE133850648008217922 0
@@ -8062,6 +8065,6 @@
 76C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\.bin\semver.cmd133850648051534081 0
 76C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\.bin\semver.ps1133850648051534081 0
 88C:\Users\Marko\Desktop\projekti\forkify\starter\node_modules\.bin\update-browserslist-db133850648051709348 0
-74C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js.map133851534619048787 0
-71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css133851528338494320 0
-75C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css.map133851528338540577 0
+74C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.e37f48ea.js.map133855746590754753 0
+71C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css133855742055175579 0
+75C:\Users\Marko\Desktop\projekti\forkify\starter\dist\index.f7626f62.css.map133855742055185590 0
