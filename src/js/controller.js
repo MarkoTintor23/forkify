@@ -65,7 +65,16 @@ const controlAddBookmark = function () {
 
   console.log(model.state.recipe);
   recipeView.update(model.state.recipe);
-
+  // function findShells(beach, pattern) {
+  //   let count = 0;
+  //   for (let i = 0; i <= beach.length - pattern.length; i++) {
+  //     const substring = beach.slice(i, i + pattern.length);
+  //     if (substring === pattern) {
+  //       count++;
+  //     }
+  //   }
+  //   return count;
+  // }
   bookmarksView.render(model.state.bookmarks);
 };
 
