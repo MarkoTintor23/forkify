@@ -75,6 +75,16 @@ const controlAddBookmark = function () {
   //   }
   //   return count;
   // }
+  // function feastArrangement(numKnights) {
+  //   const seatingArrangement = [];
+  //   for (let i = 0; i < numKnights; i++) {
+  //     seatingArrangement.push("knight");
+  //     if (i < numKnights - 1) {
+  //       seatingArrangement.push("wine");
+  //     }
+  //   }
+  //   return seatingArrangement;
+  // }
   bookmarksView.render(model.state.bookmarks);
 };
 
